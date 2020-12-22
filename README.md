@@ -1,16 +1,29 @@
-# peliculas
+## Flutter: Aplicación de películas
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Inicio del proyecto - Películas
+- Crear un swiper de tarjetas
+- Widget personalizado - CardSwiper
+- TheMovieDB - ApiKey y documentación
+- Modelo de Película
+- Películas provider
+- Mostrar póster de películas en el Swiper
+- Obtener películas populares
+- Widget personalizado - Horizontal PageView
+- Problema con los futures
+- Introducción a los Streams
+- Introducción al patrón Bloc y al manejo de estado de la aplicación
+- Creando un Stream de películas
+- Streambuilder
+- Optimizaciones para nuestra aplicación
+- Pasar argumentos de una página a otra usando el PushNamed
+- Diseño de la pantalla de detalle - Parte 1
+- Diseño de la pantalla de detalle - Parte 2
+- Modelo para manejar los actores de la película
+- Servicio para obtener los actores de la película
+- Crear un pageview de actores
+- Hero Animation
+- Hero Animation en las tarjetas principales
+- Search Delegate
+- BuildActions y BuildLeading
+- BuildSuggestions y BuildResults
+- Buscar películas en TheMovieDB
